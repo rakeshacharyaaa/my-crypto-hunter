@@ -1,15 +1,12 @@
 
-
-  const firebaseConfig = {
-    apiKey: "AIzaSyDdwoIiag-2vS7ljLqiK_Y5yqsRbMZVpmk",
-    authDomain: "crypto-8ddf7.firebaseapp.com",
-    databaseURL: "https://crypto-8ddf7-default-rtdb.asia-southeast1.firebasedatabase.app",
-    projectId: "crypto-8ddf7",
-    storageBucket: "crypto-8ddf7.appspot.com",
-    messagingSenderId: "635110986095",
-    appId: "1:635110986095:web:c15d60f5f56d9b5026189a",
-    measurementId: "G-J6PE02XD2Y"
-  };
-
+const firebaseConfig = {
+  apiKey: "AIzaSyBAo0YwK5idSZ8RWUDY17TJ4qkwG4qLUYw",
+  authDomain: "smart-habit-tracker-3c617.firebaseapp.com",
+  projectId: "smart-habit-tracker-3c617",
+  storageBucket: "smart-habit-tracker-3c617.firebasestorage.app",
+  messagingSenderId: "169385570924",
+  appId: "1:169385570924:web:89f4dbd0551f2940589e49",
+  measurementId: "G-1426KLXLQR"
+};
 
   export default firebaseConfig;

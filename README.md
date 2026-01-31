@@ -1,10 +1,10 @@
-# Crypto Hunter - MERN Stack Web App
+# Crypto Hunter - React + Firebase Web App
 
 
 ![Screenshot (61)](https://github.com/kumarAmar882/crypto_hunting/assets/65217388/41db7772-41b5-41b8-9ca2-eef255853e6e)
 
 
-  **Crypto Hunter is a full-stack web application for tracking and analyzing cryptocurrency data. This project is built using the MERN (MongoDB, Express.js, React, Node.js) stack.**
+  **Crypto Hunter is a full-stack web application for tracking and analyzing cryptocurrency data. This project is built using React and Firebase (Authentication + Firestore).**
 
 
 ### Demo
@@ -20,7 +20,7 @@ https://github.com/kumarAmar882/crypto_hunting/assets/65217388/bcbf0539-d3d6-4ed
 
 ## Features
 
-- **User Authentication**: User registration and login functionality with JWT authentication.
+- **User Authentication**: User registration and login functionality with Firebase Authentication.
 - **Cryptocurrency Data**: Display real-time cryptocurrency data including prices, charts, and historical data.
 - **Favorites**: Users can add cryptocurrencies to their favorites list.
 - **News Section**: Display the latest news related to cryptocurrencies.
